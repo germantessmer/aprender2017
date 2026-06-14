@@ -1,0 +1,17 @@
+aprender = base original etiquetada. Se le agregaron las variables id de cada tabla
+
+alumno = tabla alumno, con la selección de variables correspondiente al DER del DE4
+
+otros_alumno = atributos de la tabla alumno no seleccionadas para el trabajo final
+
+escuela = tabla escuela, con la selección de variables correspondiente al DER del DE4
+
+hogar =  tabla hogar, con la selección de variables correspondiente al DER del DE4
+
+otros_hogar = atributos de la tabla hogar no seleccionadas para el trabajo final
+
+pais = tabla pais, con la selección de variables correspondiente al DER del DE4
+
+jurisdiccion = tabla jurisdiccion, con la selección de variables correspondiente al DER del DE4
+
+

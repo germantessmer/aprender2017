@@ -1,0 +1,19 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Iteraciones pesadas: quedan locales, no se publican (cada .pbix pesa ~33 MB)
+versiones/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de Office (archivos de bloqueo ~$)
+~$*
+
+# Artefacto renderizado (GitHub muestra el README.md directamente)
+README.html
